@@ -1,0 +1,3 @@
+แบบอักษรที่ใช้ในโครงการสามารถเข้าถึงได้ที่
+- http://linux.thai.net/projects/thaifonts-scalable
+- ftp://linux.thai.net/pub/thailinux/software/thai-ttf

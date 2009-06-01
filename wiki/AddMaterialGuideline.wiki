@@ -1,26 +1,35 @@
-#คำแนะนำการใส่เอกสาร
+= แนวทางการตั้งโครงการ =
 
-= Introduction =
+ตัวอย่างการวางเอกสารภายในโครงการจะแบ่งตามนี้
 
-เอกสารต่างๆภายในโครงการจะแบ่งตามนี้
-  * Drupal Material
-   * Course outline
-   * Student manual
-   * Teacher Manual
-   * Slide
+  * Example Material
+   * Summary : ภาพรวมของหลักสูตร, เกี่ยวกับอะไร ใช้ได้กับซอฟต์แวร์ใด เวอร์ชั่นไหน สภาพแวดล้อมในการอบรมต้องเป็นยังไง
+   * Course outline : เอกสารรายละเอียดหัวข้อการอบรม
+   * Student manual : คู่มือการอบรมสำหรับนักเรียน
+   * Teacher Manual : คู่มือการอบรมสำหรับครู
+   * Slide : สไลด์ประกอบการอบรม
+   * Pretesting : ข้อสอบวัดความรู้ก่อนการอบรม
+   * Posttraining : ข้อสอบประเมินผลการเรียน หลังการอบรม
+   * Step By Step Sheet
+   * Image
+  * General
+   * 
   * Ubuntu Material
    * Course outline
    * Student manual
    * Teacher Manual
    * Slide
 
+= การตั้งชื่อไฟล์ =
 
-Add your content here.
+w
 
+= การสร้างเอกสารใหม่ =
 
-= Details =
+การสร้างเอกสารใหม่ ขอให้เขียนโดยอิง Template เป็นหลักครับ
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= กำหนดการสำหรับการอบรม =
+
+เอกสารประกอบการอบรมภายในโครงการนี้ ให้เขียนโดยครอบครุมเนื้อหาทั้งหมด โดยไม่ต้องกังวลเรื่องการนำไปใช้ ว่าผู้เรียนและผู้สอนจะใช้ระยะเวลาในการอบรมมากน้อยแค่ไหน
+
+สำหรับการนำไปใช้อบรมจริง ให้ผู้ที่นำเอกสารไปใช้ นำเอกสารไปปรับปรุงให้เหมาะกับการใช้งานในแต่ละครั้งเองครับ

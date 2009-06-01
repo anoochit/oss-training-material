@@ -21,21 +21,21 @@
 = การตั้งชื่อไฟล์ =
 
   * ชื่อไฟล์และโฟลเดอร์ ให้เป็นภาษาอังกฤษ
-  * ใช้ตัวอักษรเล็กทั้งหมด
-  * ไม่เว้นวรรคให้ใช้ Underscoll แทน
-  * Export เป็น pdf ทุกครั้งที่ Commit project เผื่อว่าดูบน Platform อื่นแล้วไม่รู้เรื่อง
+  * ใช้ตัวอักษรเล็กทั้งหมด ตัวอย่าง google_code_in_24_hrs 
+  * ไม่เว้นวรรคให้ใช้ Underscoll แทน 
+  * บันทึกเป็น pdf ทุกครั้งที่ Commit project เผื่อว่าดูบน Platform อื่นแสดงผลผิดพลาด
 
 == ตัวอย่างการตั้งชื่อไฟล์ ==
 
   * Drupal
-   * Summary : course-syllabus.odt
-   * Course outline : course-outline.odt
-   * Student Manual : drupal-manual.odt
-   * Intructor Manual : drupal-instructor-manual.odt
+   * Summary : course_syllabus.odt
+   * Course outline : course_outline.odt
+   * Student Manual : drupal_manual.odt
+   * Intructor Manual : drupal_instructor_manual.odt
    * Slide : drupal-presentation.odp
-   * Pretesting : testing-pretraining.odt
-   * Posttesting : testing-posttraining.odt
-   * Step By Step Sheet : step-by-step.odt
+   * Pretesting : testing_pretraining.odt
+   * Posttesting : testing_posttraining.odt
+   * Step By Step Sheet : step_by_step.odt
    * Image : ภาพประกอบเอกสารทั้งหมดในคอร์สดังกล่าว เป็น Original Size
    * etc : อื่นๆ ถ้ามี
 

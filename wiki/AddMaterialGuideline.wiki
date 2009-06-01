@@ -28,14 +28,14 @@
 == ตัวอย่างการตั้งชื่อไฟล์ ==
 
   * Drupal
-   * Summary : course_syllabus.odt
-   * Course outline : course_outline.odt
+   * Summary : drupal_course_syllabus.odt
+   * Course outline : drupal_course_outline.odt
    * Student Manual : drupal_manual.odt
    * Intructor Manual : drupal_instructor_manual.odt
-   * Slide : drupal-presentation.odp
-   * Pretesting : testing_pretraining.odt
-   * Posttesting : testing_posttraining.odt
-   * Step By Step Sheet : step_by_step.odt
+   * Slide : drupal_presentation.odp
+   * Pretesting : drupal_testing_pretraining.odt
+   * Posttesting : drupal_testing_posttraining.odt
+   * Step By Step Sheet : drupal_step_by_step.odt
    * Image : ภาพประกอบเอกสารทั้งหมดในคอร์สดังกล่าว เป็น Original Size
    * etc : อื่นๆ ถ้ามี
 

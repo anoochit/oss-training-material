@@ -1,0 +1,6 @@
+# คอร์สเสร็จแล้ว #
+ยังไม่มี
+# คอร์สในความตั้งใจ #
+  * Drupal
+  * Ubuntu Desktop
+  * Ubuntu Commandline

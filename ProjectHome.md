@@ -1,0 +1,1 @@
+Open Source Training Material for open source applications. Follow us via [twitter](http://www.twitter.com/ideaconnect) @ideaconnect
